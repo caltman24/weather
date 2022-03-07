@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "cross-fetch": "^3.1.5",
+    "dotenv": "^16.0.0",
+    "fetch": "^1.1.0",
+    "node": "^17.5.0",
+    "node-fetch": "^3.2.1",
+    "require": "^0.4.4",
+    "require.js": "^1.0.0"
+  },
+  "name": "weather",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
